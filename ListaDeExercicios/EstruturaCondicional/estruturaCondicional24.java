@@ -64,7 +64,7 @@ public class estruturaCondicional24 {
         if (result == Math.round(result)) {
             type += "Integer.";
         } else {
-            type += "Decimal.";
+            type += "Decimal. ";
         }
 
         System.out.println("The result of the operation is: " + result);

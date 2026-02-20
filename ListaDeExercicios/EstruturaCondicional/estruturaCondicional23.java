@@ -25,7 +25,8 @@ public class estruturaCondicional23 {
         else {
             System.out.println("Decimal number");
         }
-        
+     
+        sc.close();
     }
     
 }
