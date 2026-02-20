@@ -87,5 +87,11 @@ public class estruturaCondicional28 {
         System.out.println("Type of pay: " + method);
         System.out.println("Discount: $" + discount);
         System.out.println("-------------------------------------------");
+    
+    sc.close();
     }
 }
+
+
+
+//finish
